@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35208.52
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureBlobStorageDemo", "AzureBlobStorageDemo\AzureBlobStorageDemo.csproj", "{FC6EC0DA-EEC8-4EF7-9821-FE527F97075B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{D0A8C9CE-078C-444C-BB84-DA1E017D1551}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FC6EC0DA-EEC8-4EF7-9821-FE527F97075B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FC6EC0DA-EEC8-4EF7-9821-FE527F97075B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FC6EC0DA-EEC8-4EF7-9821-FE527F97075B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FC6EC0DA-EEC8-4EF7-9821-FE527F97075B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0A8C9CE-078C-444C-BB84-DA1E017D1551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A8C9CE-078C-444C-BB84-DA1E017D1551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A8C9CE-078C-444C-BB84-DA1E017D1551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A8C9CE-078C-444C-BB84-DA1E017D1551}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

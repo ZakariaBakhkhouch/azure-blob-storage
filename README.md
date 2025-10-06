@@ -1,4 +1,4 @@
-# 🚀 Azure Blob Storage Resources
+# 🚀 Azure Blob Storage
 
 ✨ This README gives you quick access to official Azure resources and tutorials for **Azure Blob Storage**.
 

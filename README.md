@@ -10,7 +10,7 @@
 
 ---
 
-## 🎥 Video Resources
+## 🎥 Learning Resources
 - ▶️ [Explore Azure Blob Storage AZ-204](https://www.youtube.com/watch?v=Vi11tPMrlcw)  
 
 ---
